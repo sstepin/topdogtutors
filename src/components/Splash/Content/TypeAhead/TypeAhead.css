@@ -1,0 +1,24 @@
+.Typeahead-Search{
+    /*border: 1px solid;
+    border-radius:6px;*/
+    color: #571846 !important;
+    min-width: 200px;
+    max-width: 200px;
+    border: 2px solid #571846;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+
+
+}
+
+.form-control::placeholder {
+    color: #571846 !important;
+}
+
+.form-control {
+
+
+
+}
+

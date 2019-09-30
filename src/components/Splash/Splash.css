@@ -1,0 +1,22 @@
+
+
+
+.bg {
+    background-color: #DCEDEA;
+    background-image: url("./Images/splash-image-3.png");
+    height: 489px;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (max-width: 800px) {
+    .bg{
+        background-image: none;
+    }
+}
+
+
